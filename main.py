@@ -13,6 +13,9 @@ from clearml import Task
 # - Measure the area of crop [ongoing]
 # - Probably using arcgis dataset for better accuracy of area [but lack of dataset in playground]
 
+__author__ = 'Arrival Dwi Sentosa <arrivaldwisentosa@gmail.com>'
+__source__ = ''
+
 # streamlit
 st.title('Problem 2: Ponds counting and measurement')
 st.write('Harap menunggu jika input file belum muncul, sedang initialization ClearML..')
